@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Fedor
-=======
 Egor
->>>>>>> origin/develop
+
